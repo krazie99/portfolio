@@ -1,4 +1,4 @@
-# Sean's Portfolio 및 경력기술서
+# Sean's Portfolio
 
 ### Keyword Checker
 
