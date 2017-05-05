@@ -179,6 +179,6 @@ epub 을 사용한것이 아니라 네이티브 언어로 모든 페이지 개�
 카카오톡 오픈채팅 개발
 
 - 소속 : (주) 카카오
-- 사용기술 : Objective-C
+- 사용기술 : Objective-C, 코어데이터, Http, Socket
 
 <img src="images/45.jpeg" width="300"/> 
