@@ -169,7 +169,7 @@ epub 을 사용한것이 아니라 네이티브 언어로 모든 페이지 개�
 커서 이동 기능, 테마 기능, 여러 옵션 기능 제공
 
 - 소속 : 개인
-- 사용기술 :  Objective-C, Swift 3
+- 사용기술 :  Objective-C, Swift
 - AppStore 단키 (https://itunes.apple.com/app/id922851586), 한글키 (https://itunes.apple.com/app/id935555191)
 
 <img src="images/41.jpeg" width="160"/> <img src="images/42.jpeg" width="160"/> <img src="images/43.jpeg" width="160"/> <img src="images/44.jpeg" width="160"/>
@@ -179,6 +179,6 @@ epub 을 사용한것이 아니라 네이티브 언어로 모든 페이지 개�
 카카오톡 오픈채팅 개발
 
 - 소속 : (주) 카카오
-- 사용기술 : Objective-C, 코어데이터, Http, Socket
+- 사용기술 : Swift, Objective-C, 코어데이터, Http, Socket
 
 <img src="images/45.jpeg" width="300"/> 
