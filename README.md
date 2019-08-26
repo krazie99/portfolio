@@ -68,6 +68,17 @@
 
 <img src="images/28.jpeg" width="160"/> <img src="images/29.jpeg" width="160"/> <img src="images/30.jpeg" width="160"/>
 
+### SmartRogic
+
+로보로보에서 판매중인 로봇의 제어를 위한 어플리케이션
+
+- 소속 : ROBOROBO Co.,Ltd
+- 사용기술 : Objective-C, Core-Bluetooth
+- 프로젝트 인원 : 기획 1명, 개발 3명 (안드로이드 1명, iOS 1명, 임베디드 1명), 디자인 1명
+- AppStore (https://apps.apple.com/app/id942989165)
+
+<img src="images/41-1.png" width="160"/> <img src="images/41-2.png" width="160"/> <img src="images/41-3.png" width="160"/> <img src="images/41-4.png" width="160"/>
+
 ### ClienS
 
 클리앙 비 공식 어플리케이션
