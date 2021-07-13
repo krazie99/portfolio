@@ -5,7 +5,7 @@
 - 소속 : (주) 네이버
 - 사용기술 : Objective-C, Swift, Http, async/await
 
-<img src="images/46.png" width="300"/> <img src="images/47.png" width="300"/> 
+<img src="images/46.png" width="300" height="654"/> <img src="images/47.png" width="300" height="654"/> 
 
 ### 카카오톡 오픈채팅
 
