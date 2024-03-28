@@ -1,22 +1,22 @@
 # Sean's Portfolio
 
-### 네이버 카페
-
-- 소속 : (주) 네이버
-- 기간 : 2020년 8월 ~ 현재
-- 사용기술 : Objective-C, Swift, Http, concurrency (async/await/actor)
-
-<img src="images/46.png" width="300" height="654"/> <img src="images/47.png" width="300" height="654"/> 
-
 ### 카카오톡 오픈채팅
 
 카카오톡 오픈채팅 개발
 
 - 소속 : (주) 카카오
-- 기간 : 2016년 6월 ~ 2020년 8월
+- 기간 : 2016년 6월 ~ 2020년 8월 && 2022년 4월 ~ 2024년 3월
 - 사용기술 : Swift, Objective-C, 코어데이터, Http, Socket
 
 <img src="images/45.jpeg" width="300"/> 
+
+### 네이버 카페
+
+- 소속 : (주) 네이버
+- 기간 : 2020년 8월 ~ 2022년 3월
+- 사용기술 : Objective-C, Swift, Http, concurrency (async/await/actor)
+
+<img src="images/46.png" width="300" height="654"/> <img src="images/47.png" width="300" height="654"/> 
 
 ### 단키, 한글키 
 
